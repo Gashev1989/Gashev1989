@@ -1,11 +1,19 @@
 <div id="header" align="center">
-    <h1>Hi there, I'm  Ivan 
+    <h1>Hi there, I'm Konstantin 
       <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
     <h3>Full Python Developer from Yekaterinburg</h3>
 </div>
-<h1 align="center">Hi there, I'm Konstantin</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Python-developer from Yekaterinburg, Russia</h3>
+<div id="socials" align="center">
+    <a href="linkedin-url">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="twitter-url">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="[telegram-url](https://t.me/Quattro66)">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</div>
 
 My stack is:  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
