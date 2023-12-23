@@ -38,6 +38,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gashev1989&theme=solarized_dark" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gashev1989&theme=github_dark" alt=""/>
      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gashev1989&theme=github_dark" alt=""/>
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gashev1989&theme=solarized_dark" alt=""/>
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gashev1989&layout=compact)](https://github.com/gashev1989/github-readme-stats)
