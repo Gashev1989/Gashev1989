@@ -15,7 +15,7 @@
 ### About me
 - 🌱 I’m currently learning **Python and it's frameworks**
 - 📫 Reach me by [email](mailto:gashev.konst@yandex.ru)
-- 🌍 I speak English, Spanish
+- 🌍 I speak Russian, English, Spanish
 
 ### Languages and tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
