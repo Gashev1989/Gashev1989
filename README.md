@@ -3,7 +3,7 @@
 <h3 align="center">Python-developer from Yekaterinburg, Russia</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gashev1989&layout=compact)](https://github.com/gashev1989/github-readme-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gashev1989)](https://git.io/streak-stats)
 <!--
 **Gashev1989/Gashev1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
