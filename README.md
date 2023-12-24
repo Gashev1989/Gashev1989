@@ -13,7 +13,8 @@
 </div>
 
 ### About me
-- 🌱 I’m currently learning **Python and it's frameworks**
+- 🔭 I’m **in searching for job offers**
+- 🌱 I’m currently reading **"Grokking Algorithms" by Aditya Bhargava** and practice in **algorithms**
 - 📫 Reach me by [email](mailto:gashev.konst@yandex.ru)
 - 🌍 I speak Russian, English, Spanish
 
