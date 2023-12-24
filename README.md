@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <h1>Hi there, I'm Konstantin 
       <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-    <h3>Python-Developer from Yekaterinburg</h3>
+    <h3>Python-Developer from Yekaterinburg, Russia</h3>
 </div>
 <div id="socials" align="center">
     <a href="linkedin-url">
