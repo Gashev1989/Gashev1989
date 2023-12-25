@@ -14,7 +14,7 @@
 - 🌱 I’m currently reading **"Grokking Algorithms" by Aditya Bhargava** and practice in **algorithms**
 - 📫 Reach me by [email](mailto:gashev.konst@yandex.ru)
 - 🌍 I speak Russian (native), English (elementary), Spanish (begginer)
-- ⚡ You can see my best projects in **Pinned** below:
+- ⚡ You can see **my best projects in Pinned** below:
 
 ### Languages and tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
