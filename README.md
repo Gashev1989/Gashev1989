@@ -4,6 +4,7 @@
     <h3>Python-Developer from Yekaterinburg, Russia</h3>
 </div>
 <div id="socials" align="center">
+    <h4>To quickly contact me, click:</h4>
   <a href="https://t.me/Quattro66">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
