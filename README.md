@@ -16,7 +16,7 @@
 - 👯 I’m free to collaborate on projects with **Django, FastAPI, Flask, Scrapy and telegram-bot development**
 - 📫 Reach me by [email](mailto:gashev.konst@yandex.ru)
 - 🌍 I speak Russian (native), English (elementary), Spanish (begginer)
-- ⚡ You can see **my best projects in Pinned**.
+- ⚡ You can watch and try **my best projects in Pinned**.
 
 ### Languages and tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
