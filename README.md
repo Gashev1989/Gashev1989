@@ -13,7 +13,8 @@
 ### About me
 - 🔭 I’m **in searching for job offers**
 - 🌱 I’m currently reading **"Grokking Algorithms" by Aditya Bhargava** and practice in **algorithms**
-- 👯 I’m free to collaborate on projects with **Django, FastAPI, Flask, Scrapy and telegram-bot development**
+- ⌨️ Now I write pet-project with **Pygame**
+- 👥 I’m free to collaborate on projects with **Django, FastAPI, Flask, Scrapy and telegram-bot development**
 - 📫 Reach me by [email](mailto:gashev.konst@yandex.ru)
 - 🌍 I speak Russian (native), English (elementary), Spanish (begginer)
 - ⚡ You can watch and try **my best projects in Pinned**.
