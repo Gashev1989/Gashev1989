@@ -12,7 +12,7 @@
 
 ### About me
 - 🔭 I’m **in searching for job offers**
-- 🌱 I’m currently reading **"Grokking Algorithms" by Aditya Bhargava** and practice in **algorithms**
+- 🌱 I’m currently reading **"Thinkertoys: A Handbook of Creative-Thinking Techniques" by Michael Michalko** and practice in **algorithms**
 - ⌨️ Now I write pet-project with **Pygame**
 - 👥 I’m free to collaborate on projects with **Django, FastAPI, Flask, Scrapy and telegram-bot development**
 - 📫 Reach me by [email](mailto:gashev.konst@yandex.ru)
