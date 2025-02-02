@@ -12,8 +12,8 @@
 
 ### About me
 - 🔭 I’m **in searching for job offers**
-- 🌱 I’m currently reading **"Thinkertoys: A Handbook of Creative-Thinking Techniques" by Michael Michalko** and practice in **algorithms**
-- ⌨️ Now I write pet-project with **Pygame**
+- 🌱 I’m currently reading **"Thinking, Fast and Slow" by Daniel Kahneman**
+- ⌨️ Now I practice in **algorithms** and **SQL**
 - 👥 I’m free to collaborate on projects with **Django, FastAPI, Flask, Scrapy and telegram-bot development**
 - 📫 Reach me by [email](mailto:gashev.konst@yandex.ru)
 - 🌍 I speak Russian (native), English (elementary), Spanish (begginer)
